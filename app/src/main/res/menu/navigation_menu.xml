@@ -25,7 +25,7 @@
 
     </group>
 
-    <item android:title="@string/subheader">
+    <item android:title="@string/sub_header">
 
         <menu>
 

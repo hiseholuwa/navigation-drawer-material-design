@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">Navigation Drawer</string>
+    <string name="drawer_image">Drawer Image</string>
+    <string name="john_doe">John Doe</string>
+    <string name="example_gmail_com">example@gmail.com</string>
 </resources>
